@@ -1,0 +1,24 @@
+{
+    "name": "iwish/page-module",
+    "description": "",
+    "authors": [
+        {
+            "name": "test",
+            "email": "test@gmail.com"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [],
+            "aliases": {
+
+            }
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Modules\\Page\\": ""
+        }
+    },
+    "type": "laravel-module"
+}
